@@ -1,0 +1,26 @@
+{
+  "name": "arinc429_6-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunolang/ARINC429_6-A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Brunolang/ARINC429_6-A/issues"
+  },
+  "homepage": "https://github.com/Brunolang/ARINC429_6-A#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6",
+    "serialport": "^13.0.0"
+  }
+}
